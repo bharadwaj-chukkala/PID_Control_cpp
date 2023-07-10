@@ -1,0 +1,7 @@
+PID Control
+- There is a set point and a feedback signal
+- Used to make the system output track the set point using the feedback signal
+- PID Control takes two inputs: the set point and the measurement from the feedback signal
+- System is usually in continuous time and PID is implmented digitally.
+
+PID in continuous domain
